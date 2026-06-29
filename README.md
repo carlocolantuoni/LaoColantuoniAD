@@ -130,11 +130,7 @@ and the supplementary figures.
 - **Reproducibility.** Stochastic steps (fGSEA) set a fixed seed. Enrichment results
   can still shift slightly with the installed `org.Hs.eg.db` / `GO.db` version.
 
-## License
-
-*(Choose and add one — e.g. drop a `LICENSE` file in the repo. MIT is common for
-code; CC-BY-4.0 is common when code accompanies a publication.)*
 
 ## Contact
 
-*(Corresponding author name and email, or a link to open an issue.)*
+*Lead contact and correspondence: pworley@jhmi.edu (P.F.W.) & ccolantuoni@som.umaryland.edu (C.C.)
